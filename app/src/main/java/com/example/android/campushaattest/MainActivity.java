@@ -16,6 +16,7 @@ import com.example.android.campushaattest.adapters.AccomodationAdapter;
 import com.example.android.campushaattest.models.Accomodation;
 
 import java.util.ArrayList;
+import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
     ArrayList<Accomodation> accomodations;
