@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Campus Haat Test</string>
+    <string name="room_title">No. of Rooms: </string>
+    <string name="address_title">Address: </string>
+</resources>

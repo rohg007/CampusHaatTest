@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:title="Add Dummy PG"
+        android:orderInCategory="99"
+        android:id="@+id/dummy_pg"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:title="Add Dummy Hostel"
+        android:orderInCategory="99"
+        android:id="@+id/dummy_hostel"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:title="Add Dummy Apartment"
+        android:orderInCategory="99"
+        android:id="@+id/dummy_apartment"
+        app:showAsAction="ifRoom"/>
+
+</menu>
